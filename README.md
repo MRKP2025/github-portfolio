@@ -4,7 +4,7 @@ I have always had a deep passion for all things computer science, as my dad is a
 
 # Flashcard Project
 ### A Flashcard Generator With Python
-[Primary File](https://drive.google.com/file/d/1OFisj_8Lb6U740WLx3Lp3iRVcBhz6tRA/view?usp=sharing)
+[Primary File](https://drive.google.com/file/d/1OFisj_8Lb6U740WLx3Lp3iRVcBhz6tRA/view?usp=sharing) | 
 [Question Superclass](https://drive.google.com/file/d/1O3MQFppyPocVQYV2lJeSOTGeYKhja6JV/view?usp=sharing)
 [True-False Application](https://drive.google.com/file/d/1NlaibVo4q3oeoKUnNfvepZyRLya7hICm/view?usp=sharing)
 [True-False Sample Questions](https://drive.google.com/file/d/1OCBsaXBNOpqQJlBWiWEH0uaFM_vw6HJW/view?usp=sharing)
