@@ -14,7 +14,7 @@ I have always had a deep passion for all things computer science, as my dad is a
 
 # Bank Accounts
 ### A Java File Using a Class for Storing Bank Account Info
-[Main_File](https://drive.google.com/file/d/1T10vY7HCULGPywBKkG_3d8xgGRHeGEI3/view?usp=sharing)
+[Main File](https://drive.google.com/file/d/1T10vY7HCULGPywBKkG_3d8xgGRHeGEI3/view?usp=sharing)
 [Payment Card Class](https://drive.google.com/file/d/1T0SKjngW9B966Vi4Av6YWWlqfvgX5IMv/view?usp=sharing)
 
 # Digital Library Project
